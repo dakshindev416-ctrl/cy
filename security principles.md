@@ -79,3 +79,4 @@ Example: Audit logs in firewalls to trace malicious user actions.
 | WannaCry (2017) | Ransomware disabled hospital systems worldwide | Availability |
 | Equifax Breach (2017) | Personal data of 143M users leaked | Confidentiality & Integrity |
 | Twitter Hack (2020) | Insider access to admin tools | Confidentiality & Accountability |
+
